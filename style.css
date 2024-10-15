@@ -10,18 +10,16 @@ body{
 
 .header{
     background-color: rgb(195, 192, 192);
+    /* display: flex;
+    justify-content: space-around; */
+    
+    
    
-}
-.header h2{
-    font-size: 30px;
-    text
-}
-.header h3{
-    margin-top: 13px;
 }
 
 .mywork{
     text-align: center;
+    margin-top: 20px;
 }
 .container{
     background-color: rgb(254, 254, 254);
@@ -37,8 +35,8 @@ body{
 }
 .card .img{
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
 
 }
 
@@ -52,12 +50,6 @@ body{
     font-size: 12px;
 }
 
-/* footer{
-    background-color: rgb(195, 192, 192);
-    text-align: center;
-    height: 100px;
-
-} */
 .footer{
     background-color: rgb(195, 192, 192);
     height: 100px;
